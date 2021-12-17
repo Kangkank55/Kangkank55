@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kangkank55
 - 👀 I’m interested in coding and Data analysis
 - 🌱 I’m currently learning data science with Python
-- 💞️ I’m looking to collaborate on data scientist field
+- 💞️ I’m looking to collaborate on data science field
 - 📫 How to reach me ...email id kangkank55@gmail.com
 
 <!---
